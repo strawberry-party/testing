@@ -1,0 +1,7 @@
+{    
+    "host": "database-for-test.cl8rp0hhmefb.us-east-2.rds.amazonaws.com",
+    "user": "admin",
+    "password": "e5e50224!",
+    "port": "3306",
+    "database": "taxi"
+  }
